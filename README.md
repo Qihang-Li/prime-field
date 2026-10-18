@@ -1,4 +1,4 @@
-# finite_field_lib
+# Prime Field
 
 An educational finite field arithmetic library written in Rust. This crate serves as a foundational component for understanding the algebraic primitives required in zero-knowledge proof (ZKP) systems.
 
