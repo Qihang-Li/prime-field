@@ -9,10 +9,7 @@ pub struct Galois {
 impl Galois {
     pub fn new(mut num: BigUint, prime: BigUint) -> Self {
         num %= &prime;
-        Self {
-            num: num,
-            prime: prime,
-        }
+        Self { num, prime }
     }
 }
 
