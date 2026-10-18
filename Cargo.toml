@@ -1,5 +1,5 @@
 [package]
-name = "finite_field_lib"
+name = "prime_field"
 version = "0.1.0"
 edition = "2024"
 
